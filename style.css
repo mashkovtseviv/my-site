@@ -44,6 +44,7 @@ body {
 .header-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
+  white-space: nowrap;
 }
 
 .hero-image {
@@ -190,4 +191,5 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+  white-space: nowrap;
 }
